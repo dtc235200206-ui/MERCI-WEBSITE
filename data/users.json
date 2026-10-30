@@ -1,0 +1,29 @@
+[
+  {
+    "id": "google:106859560120274062450",
+    "email": "harryduc259@gmail.com",
+    "name": "Đức Hoàngg",
+    "image": "https://lh3.googleusercontent.com/a/ACg8ocLwdFxoEdm_tkXdXgINWnrqV9hA9CW2PvoyoRWxpGcThAhRtw=s96-c",
+    "provider": "google",
+    "phone": "",
+    "birthday": "",
+    "spend": 0,
+    "points": 0,
+    "vouchers": [],
+    "createdAt": "2026-10-26T06:38:55.341Z",
+    "tierOverride": "ruby"
+  },
+  {
+    "id": "google:106079619372503695784",
+    "email": "vumaichi0212@gmail.com",
+    "name": "Chi Vũ",
+    "image": "https://lh3.googleusercontent.com/a/ACg8ocLmwADCp3vmzeA5P_gz5QusA0-Mv3HnmTo0uUzOW5zuKcYSWw=s96-c",
+    "provider": "google",
+    "phone": "",
+    "birthday": "",
+    "spend": 0,
+    "points": 0,
+    "vouchers": [],
+    "createdAt": "2026-10-26T06:44:21.825Z"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "dior",
+    "name": "Dior",
+    "image": "/uploads/1792936833740-hflg.jpg"
+  },
+  {
+    "id": "chanel",
+    "name": "Chanel",
+    "image": "/uploads/1792937291528-ck3j.jpg"
+  },
+  {
+    "id": "gucci",
+    "name": "Gucci",
+    "image": "/uploads/1792937680769-j6el.jpg"
+  },
+  {
+    "id": "1792937842147",
+    "name": "Louis Vuitton",
+    "image": "/uploads/1792937841118-xqv0.jpg"
+  },
+  {
+    "id": "1792938075827",
+    "name": "SaintLaurent",
+    "image": "/uploads/1792938148649-3av0.jpg"
+  },
+  {
+    "id": "1792938290587",
+    "name": "Cartier",
+    "image": "/uploads/1792938289520-bbac.jpg"
+  },
+  {
+    "id": "1792938439236",
+    "name": "Lacoste",
+    "image": "/uploads/1792938437992-4t84.jpg"
+  },
+  {
+    "id": "1792938611668",
+    "name": "Burberry",
+    "image": "/uploads/1792938610698-yhcj.jpg"
+  },
+  {
+    "id": "1792938674063",
+    "name": "Ralph Lauren",
+    "image": "/uploads/1792938672878-wmhp.jpg"
+  }
+]
